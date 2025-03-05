@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitanAxfr
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Android APP and frontend web development
+- 🌱 I’m currently learning Java,Python, RAG based AI, etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @binjojoy on instagram
 
